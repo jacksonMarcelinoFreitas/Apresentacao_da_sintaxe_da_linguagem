@@ -1,1 +1,1 @@
-Aqui há algumas ferramnentas que podem ser usadas com bibliotecas, fumções, switch cases e etc.
+Aqui há algumas ferramentas que podem ser usadas com bibliotecas, funções, switch cases e etc.
